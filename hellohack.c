@@ -9,6 +9,8 @@ int main(void)
 {
 printf("Dave Mordeson\n");
 printf("Computer Science\n");
+printf("Matthew Pearson\n")
+printf("Undeclared\n")
 
 return 0;
 }
